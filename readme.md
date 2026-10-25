@@ -220,16 +220,11 @@ feature-column files are present at the paths expected by `app.py`.
 
 ## Contributors
 
-Add the names and GitHub usernames of the team members who contributed
-to the project.
 
 -   **Project team:** Data Defenders
 -   **Repository:** https://github.com/Taranjeet07/credit-card-fraud-detection
 
-## License
 
-No license is specified. Add a `LICENSE` file if you want to make reuse
-and contribution terms explicit.
 
 ## Acknowledgements
 
